@@ -17,4 +17,8 @@ public class HomePage  extends TestBase {
     {
         signLoginPage.click();
     }
+
+    public void newWebsite(){
+        System.out.println("newWebSite");
+    }
 }
